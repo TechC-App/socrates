@@ -711,7 +711,7 @@ body {
 .write-textarea-wrap,
 .document-article {
   padding: 3rem;
-  max-width: 32rem;
+  /*max-width: 32rem;*/
   margin: 0 auto; }
 
 .write-buttons,
@@ -830,8 +830,10 @@ body {
   width: 37rem;
   margin-right: -30rem; }
 
+/*
 .read-only .write {
   margin-left: -26rem; }
+*/
 
 .write-only .write,
 .read-only .read {
